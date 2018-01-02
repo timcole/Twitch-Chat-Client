@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"core-js/library/fn/json/stringify","loc":{"line":1,"column":38}}],"generated":{"js":"module.exports = { \"default\": require(\"core-js/library/fn/json/stringify\"), __esModule: true };"},"hash":"c550cc07b233c8b246b46a9309c1a520"}
